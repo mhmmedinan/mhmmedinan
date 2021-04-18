@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mrm65&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=mrm65&show_icons=true&theme=radical)
+<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a185374fe94799e45b7fd1149bbeeae7cc8f84065d584b33f48c9eca49ed5685/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d436572656e42646b266c61796f75743d636f6d70616374267468656d653d6c69676874"><img src="https://camo.githubusercontent.com/a185374fe94799e45b7fd1149bbeeae7cc8f84065d584b33f48c9eca49ed5685/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d436572656e42646b266c61796f75743d636f6d70616374267468656d653d6c69676874" alt="Languages" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrm65&amp;layout=compact&amp;theme=light" style="max-width:100%;"></a></p>
