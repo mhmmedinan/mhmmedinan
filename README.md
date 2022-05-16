@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I am a graduate of Gümüşhane University Computer Programming Department. I am studying Management Information Systems at Anadolu University. I develop projects in the fields of Backend and Frontend.
-- ![](https://komarev.com/ghpvc/?username=mrm65&color=green)
+![counter](https://[mrm65].m.pipedream.net)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mrm65&show_icons=true&theme=gradient) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrm65&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
