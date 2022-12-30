@@ -1,6 +1,5 @@
-### Hi there 👋
-
-- I am a graduate of Gümüşhane University Computer Programming Department. I am studying Management Information Systems at Anadolu University. I develop projects in the fields of Backend and Frontend.
+<h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
+<h3 align="center">A passionate software developer from turkey</h3>
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&theme=gradient) 
