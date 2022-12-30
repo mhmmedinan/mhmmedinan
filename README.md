@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=mhmmedinan&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-![](https://github-readme-stats.vercel.app/api?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![]<p>(https://github-readme-stats.vercel.app/api?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)</p><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&theme=highcontrast&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
