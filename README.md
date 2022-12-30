@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
 <h3 align="center">A passionate software developer from turkey</h3>
+[![](https://visitcount.itsvg.in/api?id=mhmmedinan&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&theme=gradient) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmedinan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&theme=highcontrast&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mhmmed_inan)
@@ -44,4 +46,10 @@
 
 # Operating System
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+
+
+
+
+
 
