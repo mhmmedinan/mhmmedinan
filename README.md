@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
 <h3 align="center">A passionate software developer from turkey</h3>
-[![](https://visitcount.itsvg.in/api?id=mhmmedinan&icon=0&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=mhmmedinan&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 ![]<p>(https://github-readme-stats.vercel.app/api?username=mhmmedinan&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)</p><br/>
