@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
 <h3 align="center">A passionate software developer from turkey</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p>
+<p>&nbsp;<img style="margin-left:150px" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p>
 <p><img style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmedinan&show_icons=true&locale=en&layout=compact" alt="mhmmedinan" /></p>
 
 
