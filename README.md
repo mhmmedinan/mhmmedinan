@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
 <h3 align="center">A passionate software developer from turkey</h3>
-![](https://visitcount.itsvg.in/api?id=mhmmedinan&icon=0&color=1)](https://visitcount.itsvg.in)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmedinan&show_icons=true&locale=en&layout=compact" alt="mhmmedinan" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmedinan&show_icons=true&locale=en&layout=compact" alt="mhmmedinan" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p></br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&" alt="mhmmedinan" /></p></br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&" alt="mhmmedinan" /></p>
 
 # Social Media
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/mhmmed_inan)
