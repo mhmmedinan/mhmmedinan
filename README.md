@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/mhmmedinan?style=flat&logo=github&)](https://github.com/mhmmedinan?tab=repositories)
 [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=mhmmedinan.visitor-badge)](https://gitHub.com/mhmmedinan)
 </div>
-<h1 align="center">Hi 👋, I'm Muhammed Inan</h1>
+<h1 align="center">Hi 👋, I'm Muhammed İnan</h1>
 <h3 align="center">A passionate software developer from turkey</h3></br>
 <p align= center >&nbsp;<img style="margin-left:-150px" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p>
 <p align= center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&" alt="mhmmedinan" /></p>
