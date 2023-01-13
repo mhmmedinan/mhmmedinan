@@ -7,8 +7,6 @@
 <h1 align="center">Hi 👋, I'm Muhammed İnan</h1>
 <h3 align="center">A passionate software developer from turkey</h3></br>
 <p align= center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&" alt="mhmmedinan" /></p>
-<p align = center><img style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmedinan&show_icons=true&locale=en&layout=compact" alt="mhmmedinan" /></p>
-
 
 
 <h3 align="left">Connect with me:</h3>
