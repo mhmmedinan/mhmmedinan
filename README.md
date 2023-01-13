@@ -6,7 +6,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Muhammed İnan</h1>
 <h3 align="center">A passionate software developer from turkey</h3></br>
-<p align= center >&nbsp;<img style="margin-left:-150px" src="https://github-readme-stats.vercel.app/api?username=mhmmedinan&show_icons=true&locale=en" alt="mhmmedinan" /></p>
 <p align= center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmmedinan&" alt="mhmmedinan" /></p>
 <p align = center><img style="margin-left:50px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmmedinan&show_icons=true&locale=en&layout=compact" alt="mhmmedinan" /></p>
 
