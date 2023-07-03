@@ -2,7 +2,6 @@
  
 [![GitHub followers](https://img.shields.io/github/followers/mhmmedinan?style=flat&logo=github)](https://github.com/mhmmedinan?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/mhmmedinan?style=flat&logo=github&)](https://github.com/mhmmedinan?tab=repositories)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=mhmmedinan.visitor-badge)](https://gitHub.com/mhmmedinan)
 </div>
 <h1 align="center">Hi 👋, I'm Muhammed İnan</h1>
 <h3 align="center">A passionate software developer from turkey</h3></br>
